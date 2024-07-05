@@ -1,0 +1,164 @@
+{
+  "result": [
+    {
+      "scriptId": "317",
+      "url": "file:///Users/ali/Documents/1_projects/caliana/caliana-interview-test/src/routes.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 3026,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "default",
+          "ranges": [
+            {
+              "startOffset": 221,
+              "endOffset": 3025,
+              "count": 4
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 295,
+              "endOffset": 1740,
+              "count": 1
+            },
+            {
+              "startOffset": 916,
+              "endOffset": 1006,
+              "count": 0
+            },
+            {
+              "startOffset": 1141,
+              "endOffset": 1313,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1455,
+              "endOffset": 1525,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1564,
+              "endOffset": 1709,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1804,
+              "endOffset": 2121,
+              "count": 1
+            },
+            {
+              "startOffset": 2010,
+              "endOffset": 2092,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2170,
+              "endOffset": 2550,
+              "count": 1
+            },
+            {
+              "startOffset": 2248,
+              "endOffset": 2326,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2613,
+              "endOffset": 3008,
+              "count": 1
+            },
+            {
+              "startOffset": 2712,
+              "endOffset": 2799,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2853,
+              "endOffset": 2901,
+              "count": 6
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "319",
+      "url": "file:///Users/ali/Documents/1_projects/caliana/caliana-interview-test/src/db.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 218,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 99,
+              "endOffset": 195,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    }
+  ],
+  "timestamp": 172514.931959,
+  "source-map-cache": {}
+}

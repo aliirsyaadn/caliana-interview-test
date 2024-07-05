@@ -1,0 +1,26 @@
+TAP version 14
+# Subtest: POST /upload - should upload a file
+    ok 1 - should be equal
+    ok 2 - should be equivalent
+    1..2
+ok 1 - POST /upload - should upload a file # time=36.585ms
+
+# Subtest: GET /download/:filename - should download a file
+    ok 1 - should be equal
+    ok 2 - should be equal
+    1..2
+ok 2 - GET /download/:filename - should download a file # time=5.648ms
+
+# Subtest: POST /input - should store text in the database
+    ok 1 - should be equal
+    ok 2 - should be equivalent
+    1..2
+ok 3 - POST /input - should store text in the database # time=4.9ms
+
+# Subtest: POST /findDuplicates - should find duplicate numbers
+    ok 1 - should be equal
+    ok 2 - should be equivalent
+    1..2
+ok 4 - POST /findDuplicates - should find duplicate numbers # time=3.311ms
+
+1..4
